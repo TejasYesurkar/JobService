@@ -1,0 +1,4 @@
+Ipaddress,RECEPTION\SQLEXP
+DbName,SIBI
+UserName,sa
+Pswd,admin123
